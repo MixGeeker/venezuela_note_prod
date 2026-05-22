@@ -1,0 +1,12 @@
+title: 委内瑞拉生产笔记
+description: 共享委内瑞拉生活与实践经验的协作文档仓库
+lang: zh-CN
+seed_enabled: true
+seed_topics: getting-started,faq,runbook
+seed_docs_per_topic: 1
+seed_include_home: true
+seed_include_changelog: true
+draft_by_default: false
+default_tags: venezuela,knowledge-base
+owner: community
+review_checklist: strict

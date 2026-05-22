@@ -177,5 +177,25 @@
     }
   },
   "active": "84eb9fbd18529436",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "assets",
+    "notes/domains/security-defense.md",
+    "notes/domains/agriculture.md",
+    "notes/domains/industry-commerce.md",
+    "notes/domains/transport.md",
+    "notes/domains/housing.md",
+    "notes/domains/food.md",
+    "notes/domains/clothing.md",
+    "notes/domains/index.md",
+    "notes/domains",
+    "CONTRIBUTING.md",
+    "notes/changelog.md",
+    "notes",
+    "guides/faq.md",
+    "guides/getting-started.md",
+    "guides",
+    "README.md",
+    "site.yml",
+    "AGENT.md"
+  ]
 }
