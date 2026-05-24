@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">委内瑞拉生产笔记应用图标</title>
+  <desc id="desc">带有书本和标记线条的方形站点图标</desc>
+  <rect width="512" height="512" rx="112" fill="#f9fafb" />
+  <path d="M64 152c0-26.51 21.49-48 48-48h288c26.51 0 48 21.49 48 48v40H64z" fill="#f4c542" />
+  <path d="M64 192h384v72H64z" fill="#2563eb" />
+  <path d="M64 264h384v96c0 26.51-21.49 48-48 48H112c-26.51 0-48-21.49-48-48z" fill="#d94b4b" />
+  <path d="M156 148h168c35.35 0 64 28.65 64 64v136c0 8.84-7.16 16-16 16H188c-17.67 0-32 14.33-32 32V148z" fill="#ffffff" opacity="0.96" />
+  <path d="M188 148h8v248h-8c-17.67 0-32-14.33-32-32V180c0-17.67 14.33-32 32-32z" fill="#e2e8f0" />
+  <rect x="220" y="204" width="112" height="16" rx="8" fill="#2563eb" />
+  <rect x="220" y="244" width="96" height="16" rx="8" fill="#93c5fd" />
+  <rect x="220" y="284" width="120" height="16" rx="8" fill="#93c5fd" />
+  <circle cx="344" cy="284" r="10" fill="#f4c542" />
+</svg>

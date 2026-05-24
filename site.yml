@@ -1,5 +1,9 @@
-title: 委内瑞拉笔记
+title: 委内瑞拉生产笔记
 description: 共享委内瑞拉生活与实践经验的协作文档仓库
+short_name: 委内瑞拉笔记
+icon: assets/app-icon.svg
+theme_color: "#2563eb"
+background_color: "#f9fafb"
 lang: zh-CN
 seed_enabled: true
 seed_topics: getting-started,faq,runbook
